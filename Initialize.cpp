@@ -1,11 +1,5 @@
 #include "Initialize.h"
 
-/*
-float rando(){
-	return static_cast <float> (rand()) / (static_cast <float> (RAND_MAX / 0.01));
-}
-*/
-
 int main()
 {
 	srand(0);
