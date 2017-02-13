@@ -1,6 +1,6 @@
 # Raymarch Engine
 
-An empty room with tiled walls and some luxurious z=sin(x*y) floors
+An empty room with tiled walls and some luxurious y=sin(x*z) floors
 ![alt tag](http://i.imgur.com/n5JWmFI.png)
 
 Player has created a couple wormholes
