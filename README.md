@@ -1,5 +1,7 @@
 # Raymarch Engine
 
+## An improved version of this repo can be found here: https://github.com/pwhiddy/time
+
 An empty room with tiled walls and some luxurious y=sin(x*z) floors
 ![alt tag](http://i.imgur.com/n5JWmFI.png)
 
